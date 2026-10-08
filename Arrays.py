@@ -75,8 +75,6 @@ def remove_duplicates_sorted(arr):
 numbers = [1, 1, 2, 2, 2, 3, 4, 4, 5]
 print(remove_duplicates_sorted(numbers))
 
-# 
-
 # Pivot - Middle value when the numbers are arrange in ascending order.
 
 def partition(arr, pivot):
